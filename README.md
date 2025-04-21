@@ -45,7 +45,7 @@ The app shows the last 10 dice results, updating as new rolls are made.
 The app is designed to work only in portrait mode.
 
 ## Screenshots
-![Dice Roll Screenshot]([https://ibb.co/2YM9KkcW](https://i.ibb.co/S7mjv3V5/Ekran-g-r-nt-s-2025-04-21-184101.png))
+![Ekran-g-r-nt-s-2025-04-21-184101](https://github.com/user-attachments/assets/92473848-00cd-400c-be46-5074f1b47a11)
 
 ## Contribution
 If you'd like to contribute to this project, feel free to send a pull request.
